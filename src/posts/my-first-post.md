@@ -21,4 +21,4 @@ tags:
 
 ## Links
 
-View [my wordpress site](https://wordpress.com/site-editor/karlsfirstwpsite.wordpress.com).
+View [my wordpress site](https://karlsfirstwpsite.wordpress.com/).
